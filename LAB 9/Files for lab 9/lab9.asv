@@ -1,0 +1,23 @@
+% data = imread('cdio.pbm');
+% data1 = rle_compress(data);
+% data2 = rle_decompress(data1);
+% countAfterCompress = length([data1{:}]);
+% countBeforeCompress = numel(data);
+% disp('Коэффициент сжатия: ');
+% countAfterCompress / countBeforeCompress
+% if data == data2
+%  disp('Данные восстановлены полностью');
+% else
+%  disp('Данные восстановлены частично');
+% end
+
+array =[];
+for i = 1:100
+ data = rand(500, 500) >= 0.5;
+ data1 = rle_compress(data);
+ countAfterCompress = length([data1{:}]);
+ countBeforeCompress = numel(data);
+ array(i, 1) = countAfterCompress / countBeforeCompress;
+ disp(i);
+end
+disp(mean(array));
