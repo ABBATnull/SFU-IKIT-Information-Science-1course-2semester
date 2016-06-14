@@ -30,8 +30,8 @@
 > * Пушкарев К.В.
 
 ##Вам это может быть интересно :
-> * [**_Перейти к лабораторным по ПРОГРАММИРОВАНИЮ ПЕРВОГО семестра_**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-1-SEMESTER)
-> * [**_Перейти к лабораторным по ПРОГРАММИРОВАНИЮ ВТОРОГО семестра_**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)
+> * [**_Перейти к лабораторным ПЕРВОГО семестра по ПРОГРАММИРОВАНИЮ_**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-1-SEMESTER)
+> * [**_Перейти к лабораторным ВТОРОГО семестра по ПРОГРАММИРОВАНИЮ_**](https://github.com/ABBATnull/SFU-IKIT-LABY-PROG-2-SEMESTER)
 > * [**_Больше вариантов лабораторных по ПРОГРАММИРОВАНИЮ у этого парня:_**](https://github.com/Zulcom/Programming-Basis-II)
 
 ##Связь со мной :
